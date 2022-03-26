@@ -1,0 +1,4 @@
+# yaminator
+
+##Usage
+app.js 
