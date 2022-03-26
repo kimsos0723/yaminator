@@ -51,7 +51,6 @@ export function convert_text(value) {
     }
 
     if (engines.length === 0) {
-        console.log('Please check engines')
         engines.push(yamin)
     }
 
