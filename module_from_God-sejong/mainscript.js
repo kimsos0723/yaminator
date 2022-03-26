@@ -75,7 +75,7 @@ export function convert_text(value) {
     }
 
     //display
-    console.log(new_sentence)
+    return new_sentence
 }
 
 
